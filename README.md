@@ -22,4 +22,5 @@ Features
 - Timer (starts on first flip)
 - Restart button
 
-That's it — lightweight and great for practice.
+
+
